@@ -1,6 +1,6 @@
 body{background-color:black; 
 
-}
+	}
 #wrapper{
 	background-color: white;
 	border: groove;
@@ -8,61 +8,60 @@ body{background-color:black;
 	height: 700px;
 	margin: auto;
 
-}
+	}
 #one{
-	background-color: blue;
 	width: 175px;
 	height: 200px;
 	float: left;
 
 
-}
+	}
 #two{
-	background-color: orange;
+
 	width: 175px;
 	height:200px;
 	float:left;
-}
+	}
 #three{
-	background-color: green;
+	
 	width: 175px;
 	height:200px;
 	float:left;
 
-}
+	}
 #four{
-	background-color: purple;
+	
 	width: 175px;
 	height:200px;
 	float:left;
 
-}
+	}
 #five{
-	background-color: purple;
+	
 	width: 350px;
 	height:200px;
 	float:left;
 
-}
+	}
 #six{
-	background-color: red;
+	
 	width:350px;
 	height:200px;
 	float:left;
 
-}
+	}
 #seven{
-	background-color: yellow;
+	
 	width:350px;
 	height: 200px;
 	float:left;
 
-}
+	}
 #eight{
-	background-color: green;
+
 	width: 350px;
 	height: 200px;
 	float: left;
 
 
-}
+	}
